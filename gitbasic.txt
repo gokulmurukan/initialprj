@@ -1,0 +1,18 @@
+git and github
+**************
+
+vcm - version conyrol system
+
+git operations
+
+-push           (to upload full and updated project)    local repo to remote  repo
+-clone          (to copy the entire project)            remote repo to local repo
+-pull           (to copy updates only)                  remote repo to local repo 
+
+
+-push
+------
+
+1-git add       -local storage to staging area
+2-git commit    -staginr are to local repository
+
